@@ -1,7 +1,7 @@
 {
   "name": "myWebpacker",
   "version": "1.0.0",
-  "description": "\"Learning\"",
+  "description": "\"Webpack Basic Task setup for projects\"",
   "main": "global.js",
   "dependencies": {
     "webpack": "^3.8.1"
@@ -31,6 +31,6 @@
     "start": "webpack -p",
     "build": "webpack"
   },
-  "author": "",
+  "author": "Naveed Ahmed",
   "license": "ISC"
 }
