@@ -1,0 +1,10 @@
+# Contents extracted from https://www.gitignore.io/ and modified
+
+####### Node Modules #######
+node_modules/
+
+####### Webpack Outputh Directory ########
+build/
+
+#### NPM Debug Log #####
+npm*.log
